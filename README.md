@@ -1,4 +1,4 @@
-# Ultra-calculator-pro
+de# Ultra-calculator-pro
 A powerful all-in-one PWA calculator featuring basic, scientific, programmer, graphing, and 100+ unit converters with offline support and installable app experience.
 # Ultra Calculator Pro 🧮
 
@@ -48,6 +48,4 @@ It works **offline**, installs like a native app, and includes multiple calculat
 - Custom app icon & splash screen
 - Fast loading
 
----
-
-## 🗂 Project Structure
+--
